@@ -1,7 +1,7 @@
 ---
 name: pair
 description: Pair programming with the AI on an already refined story. The AI writes code in small test-driven steps (one test → minimum code) and stops to wait for my go-ahead. Never commits.
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # Pair
